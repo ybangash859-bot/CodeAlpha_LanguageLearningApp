@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "CodeAlpha Language Learning",
+    "slug": "codealpha-language-learning",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.codealpha.languagelearning"
+    },
+    "ios": {
+      "bundleIdentifier": "com.codealpha.languagelearning"
+    }
+  }
+}
